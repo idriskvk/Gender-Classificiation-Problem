@@ -1,2 +1,3 @@
 # Gender-Classificiation-Problem
-Gender Classification Problem based on Height, Weight &amp; Shoe Size.
+This is my Solution for a simple Machine Learning Challenge I participated.
+I utilized 5 different Machine Learning Models in order to predict Gender based on Height, Weight & Shoe Size.
